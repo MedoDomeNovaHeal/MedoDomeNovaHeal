@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ARMIN COMIC
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is A.C.
 ===================================================================================================================================
 
 BACKEND DEV
@@ -7,7 +7,7 @@ BACKEND DEV
 HELLO
 
 * 🌍  I'm based in BERLIN
-* 🤝  I'm open to collaborating on GIVE ME
+* 🤝  I'm open to collaborating on What ever you give me 
 * ⚡  O YE
 
 ### Skills
